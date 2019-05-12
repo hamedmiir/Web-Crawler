@@ -1,4 +1,4 @@
-# Web Scrawler
+# Web Scrapper
 
 A simple application based on python for scrapping through a webpage and extract some specific informations, thanks to RealPhython.
 
